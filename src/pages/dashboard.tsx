@@ -5,7 +5,7 @@ import AdminSidebar from "../components/AdminSidebar";
 const Dashboard = () => {
   return (
     <div className="adminContainer">
-     <AdminSidebar></AdminSidebar>  
+     <AdminSidebar/>
      <main>dfrtghytg</main>
     </div>
   )
